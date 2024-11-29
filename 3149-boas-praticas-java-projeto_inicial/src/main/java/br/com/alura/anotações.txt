@@ -1,0 +1,6 @@
+SOLID -> Princípios de boas práticas
+
+S - Single Responsability Principle, uma classe deve ter apenas uma responsabilidade
+
+TESTES UNITÁRIOS
+São bons para testar as regras de negócio
